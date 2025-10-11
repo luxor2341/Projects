@@ -1,0 +1,21 @@
+{
+  "Name": "tokyo-night-storm-theme",
+  "BackgroundColor": "36, 40, 59",
+  "LightBackgroundColor": "36, 40, 59",
+  "DarkBackgroundColor": "36, 40, 59",
+  "TextColor": "169, 177, 214",
+  "BorderColor": "65, 72, 104",
+  "CheckerColor": "36, 40, 59",
+  "CheckerColor2": "86, 95, 137",
+  "CheckerSize": 0,
+  "LinkColor": "65, 72, 104",
+  "MenuHighlightColor": "65, 72, 104",
+  "MenuHighlightBorderColor": "86, 95, 137",
+  "MenuBorderColor": "177, 186, 230",
+  "MenuCheckBackgroundColor": "177, 186, 230",
+  "MenuFont": "Segoe UI Semibold, 9.75pt, style=Bold",
+  "ContextMenuFont": "Segoe UI Semibold, 9.75pt, style=Bold",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "36, 40, 59",
+  "SeparatorDarkColor": "36, 40, 59"
+}

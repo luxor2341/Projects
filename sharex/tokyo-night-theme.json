@@ -1,0 +1,21 @@
+{
+  "Name": "sharex-tokyo-night-theme",
+  "BackgroundColor": "26, 27, 38",
+  "LightBackgroundColor": "ControlLight",
+  "DarkBackgroundColor": "34, 34, 34",
+  "TextColor": "177, 186, 230",
+  "BorderColor": "71, 76, 100",
+  "CheckerColor": "ControlLight",
+  "CheckerColor2": "177, 186, 230",
+  "CheckerSize": 0,
+  "LinkColor": "166, 212, 255",
+  "MenuHighlightColor": "ControlLight",
+  "MenuHighlightBorderColor": "177, 186, 230",
+  "MenuBorderColor": "177, 186, 230",
+  "MenuCheckBackgroundColor": "177, 186, 230",
+  "MenuFont": "Segoe UI Semibold, 9.75pt, style=Bold",
+  "ContextMenuFont": "Segoe UI Semibold, 9.75pt, style=Bold",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "44, 44, 44",
+  "SeparatorDarkColor": "ControlLightLight"
+}
